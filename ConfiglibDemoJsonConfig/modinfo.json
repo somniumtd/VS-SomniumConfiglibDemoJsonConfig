@@ -1,0 +1,13 @@
+{
+    "type": "code",
+    "modid": "somniumconfiglibdemojsonconfig",
+    "name": "Somnium's Configlib json-file demo.",
+    "authors": [
+        "Somnium"
+    ],
+    "description": "Example mod, demonstrating how to use the 'configlib' mod-library. This example shows how to make an in-game configuration gui for making changes to an already existing json configuration file.\nI.e. how to adapt an existing code-mod to use 'configlib' to get an in-game configuration menu.",
+    "version": "1.0.0",
+    "dependencies": {
+      "game": "1.19.6"
+  }
+}

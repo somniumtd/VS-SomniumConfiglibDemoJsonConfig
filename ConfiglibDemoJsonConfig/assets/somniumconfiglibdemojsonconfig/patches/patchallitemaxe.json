@@ -1,0 +1,16 @@
+﻿[
+	{
+		"file": "game:itemtypes/tool/axe-metal",
+		"side": "server",
+		"op": "replace",
+		"path": "/class",
+		"value": "somniumfixaxe"
+	},
+	{
+		"file": "game:itemtypes/tool/axe-stone",
+		"side": "server",
+		"op": "replace",
+		"path": "/class",
+		"value": "somniumfixaxe"
+	}
+]
