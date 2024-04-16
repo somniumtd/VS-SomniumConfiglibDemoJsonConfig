@@ -1,3 +1,11 @@
 {
-  "hello": "hello world"
+  "TreechopSettings": "Configure tree chopping settings",
+  "DiminishingDrops": "Diminishing drops",
+  "DiminishingDropsComment": "Whether the change of additional drops should be decreased for each drop. (vanilla: true)",
+  "ExtraAxeDamage": "Extra axe damage",
+  "ExtraAxeDamageComment": "Whether the durability cost to the axe scales with the number of log blocks harvested. (vanilla: true)",
+  "LeavesDropRate": "Leaves drop-rate",
+  "LeavesDropRateComment": "Drop rate factor affecting the default drop-rate from each leaves block (vanilla: 1.0)",
+  "BranchyDropRate": "Branchy leaves drop-rate",
+  "BranchyDropRateComment": "Drop rate factor affecting the default drop-rate from each branchy leaves block (vanilla: 0.8)"
 }

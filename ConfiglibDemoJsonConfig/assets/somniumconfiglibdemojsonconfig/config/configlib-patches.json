@@ -1,0 +1,43 @@
+{
+  "version": 0,
+  "file": "SomniumConfiglibDemoJsonConfig.json",
+  "patches": {},
+  "settings": [
+    {
+      "type": "separator",
+      "title": "TreechopSettings"
+    },
+    {
+      "code": "DiminishingDrops",
+      "comment": "DiminishingDropsComment",
+      "type": "boolean",
+      "default": false
+    },
+    {
+      "code": "ExtraAxeDamage",
+      "comment": "ExtraAxeDamageComment",
+      "type": "boolean",
+      "default": false
+    },
+    {
+      "code": "LeavesDropRate",
+      "comment": "LeavesDropRateComment",
+      "type": "float",
+      "default": 1.0,
+      "range": {
+        "min": 0.0,
+        "max": 1.0
+      }
+    },
+    {
+      "code": "BranchyDropRate",
+      "comment": "BranchyDropRateComment",
+      "type": "float",
+      "default": 0.8,
+      "range": {
+        "min": 0.0,
+        "max": 1.0
+      }
+    }
+  ]
+}
