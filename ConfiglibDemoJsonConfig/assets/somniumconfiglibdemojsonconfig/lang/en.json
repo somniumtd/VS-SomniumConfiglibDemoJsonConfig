@@ -1,7 +1,7 @@
 {
   "TreechopSettings": "Configure tree chopping settings",
   "DiminishingDrops": "Diminishing drops",
-  "DiminishingDropsComment": "Whether the change of additional drops should be decreased for each drop. (vanilla: true)",
+  "DiminishingDropsComment": "Whether the chance of additional drops should be decreased for each drop. (vanilla: true)",
   "ExtraAxeDamage": "Extra axe damage",
   "ExtraAxeDamageComment": "Whether the durability cost to the axe scales with the number of log blocks harvested. (vanilla: true)",
   "LeavesDropRate": "Leaves drop-rate",
